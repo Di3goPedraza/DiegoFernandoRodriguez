@@ -1,0 +1,58 @@
+{
+    "manuales": {
+        "Python": {
+            "author": "Roy H Llamas",
+            "paginas": "65",
+            "temas": [
+                {
+                    "Titulo": "Algoritmos",
+                    "Clasificacion": 1
+                },
+                {
+                    "Titulo": "Modularidad",
+                    "Clasificacion": 2
+                },
+                {
+                    "Titulo": "Archivos JSON",
+                    "Clasificacion": 3
+                }
+            ]
+        },
+        "JavaScript": {
+            "author": "Vermen Ayala",
+            "paginas": "83",
+            "temas": [
+                {
+                    "Titulo": "Variables",
+                    "Clasificacion": 1
+                },
+                {
+                    "Titulo": "Destructuracion",
+                    "Clasificacion": 2
+                },
+                {
+                    "Titulo": "Bases de Datos",
+                    "Clasificacion": 3
+                }
+            ]
+        },
+        "paint": {
+            "author": "Diego Rodriguez",
+            "paginas": 20,
+            "temas": [
+                {
+                    "Titulo": "Lineas",
+                    "Clasificacion": 1
+                },
+                {
+                    "Titulo": "Pintar",
+                    "Clasificacion": 2
+                },
+                {
+                    "Titulo": "Editar dibujosxd",
+                    "Clasificacion": 3
+                }
+            ]
+        }
+    }
+}

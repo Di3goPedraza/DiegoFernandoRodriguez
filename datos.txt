@@ -1,0 +1,15 @@
+ManualPython
+contiene:
+ temas basicos:1
+temas intermedios:1
+temas avanzados:1
+ManualJavaScript
+contiene:
+ temas basicos:1
+temas intermedios:1
+temas avanzados:1
+Manualpaint
+contiene:
+ temas basicos:1
+temas intermedios:1
+temas avanzados:1
